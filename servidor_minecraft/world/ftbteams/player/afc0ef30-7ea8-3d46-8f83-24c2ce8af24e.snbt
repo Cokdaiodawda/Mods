@@ -1,0 +1,17 @@
+{
+	id: "afc0ef30-7ea8-3d46-8f83-24c2ce8af24e"
+	type: "player"
+	player_name: "JzYq"
+	ranks: {
+		afc0ef30-7ea8-3d46-8f83-24c2ce8af24e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JzYq"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
