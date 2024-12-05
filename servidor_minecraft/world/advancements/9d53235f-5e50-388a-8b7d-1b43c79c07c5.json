@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-05 19:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-05 19:56:05 +0000"
@@ -20,12 +26,6 @@
   "overworld_netherite_ore:overworld_netherite": {
     "criteria": {
       "overworld_netherite_0": "2024-12-05 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-05 19:56:04 +0000"
     },
     "done": true
   },
